@@ -429,8 +429,12 @@
 
   <footer class="site-footer">
     <div>Developed by Eunjeong Lee, with help from ChatGPT. </div>
-    <div class="site-footer-note">This webpage was created with help from ChatGPT.</div>
+    <div class="site-footer-note">Last updated: <span id="footer-date"></span></div>
   </footer>
-</body>
+
+  <script>
+    document.getElementById("footer-date").textContent = new Date().toLocaleDateString();
+  </script>
+  
 </body>
 </html>
