@@ -382,6 +382,15 @@
     })();
   </script>
 
+  <footer class="site-footer">
+    <div>Developed by Eunjeong Lee, with help from ChatGPT. </div>
+    <div class="site-footer-note">Last updated: <span id="footer-date"></span></div>
+  </footer>
+
+  <script>
+    document.getElementById("footer-date").textContent = new Date().toLocaleDateString();
+  </script>
+  
 </body>
 
 </html>
