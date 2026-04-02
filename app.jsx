@@ -1006,8 +1006,7 @@ function App() {
       <div className="card">
         <h1>Root Poset / Hessenberg Data Browser</h1>
         <p>
-          The page reads upper-ideal data from <code>data/&lt;type&gt;&lt;rank&gt;.json</code> and optional word data from
-          <code> data/&lt;type&gt;&lt;rank&gt;_words.json</code>. Use the right arrow to send a selected upper ideal to the tables,
+          Use the right arrow to send a selected upper ideal to the tables,
           and the left arrow to send a word lookup back to the poset panel.
         </p>
       </div>
