@@ -1,0 +1,468 @@
+{
+  "type": "G",
+  "rank": 2,
+  "rootPosetNodes": [
+    {
+      "id": "r01",
+      "shortLabel": "a01",
+      "label": "alpha[2]",
+      "x": 296.67,
+      "y": 460.0
+    },
+    {
+      "id": "r10",
+      "shortLabel": "a10",
+      "label": "alpha[1]",
+      "x": 523.33,
+      "y": 460.0
+    },
+    {
+      "id": "r11",
+      "shortLabel": "a11",
+      "label": "alpha[1] + alpha[2]",
+      "x": 410.0,
+      "y": 357.5
+    },
+    {
+      "id": "r21",
+      "shortLabel": "a21",
+      "label": "2*alpha[1] + alpha[2]",
+      "x": 410.0,
+      "y": 255.0
+    },
+    {
+      "id": "r31",
+      "shortLabel": "a31",
+      "label": "3*alpha[1] + alpha[2]",
+      "x": 410.0,
+      "y": 152.5
+    },
+    {
+      "id": "r32",
+      "shortLabel": "a32",
+      "label": "3*alpha[1] + 2*alpha[2]",
+      "x": 410.0,
+      "y": 50.0
+    }
+  ],
+  "rootPosetEdges": [
+    [
+      "r01",
+      "r11"
+    ],
+    [
+      "r10",
+      "r11"
+    ],
+    [
+      "r11",
+      "r21"
+    ],
+    [
+      "r21",
+      "r31"
+    ],
+    [
+      "r31",
+      "r32"
+    ]
+  ],
+  "incompatible": {
+    "r01": [
+      "r11",
+      "r21",
+      "r31",
+      "r32"
+    ],
+    "r10": [
+      "r11",
+      "r21",
+      "r31",
+      "r32"
+    ],
+    "r11": [
+      "r01",
+      "r10",
+      "r21",
+      "r31",
+      "r32"
+    ],
+    "r21": [
+      "r01",
+      "r10",
+      "r11",
+      "r31",
+      "r32"
+    ],
+    "r31": [
+      "r01",
+      "r10",
+      "r11",
+      "r21",
+      "r32"
+    ],
+    "r32": [
+      "r01",
+      "r10",
+      "r11",
+      "r21",
+      "r31"
+    ]
+  },
+  "lowerIdeals": {
+    "alpha[1] + alpha[2] | 3*alpha[1] + alpha[2] | 2*alpha[1] + alpha[2] | 3*alpha[1] + 2*alpha[2]": {
+      "complementRoots": [
+        "alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]"
+      ],
+      "smooth": true,
+      "correspondingWord": "[1, 2], [2, 1]",
+      "examples": [
+        "s_[1, s_2], s_[2, s_1]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1
+        },
+        "2": {
+          "phi{1,0}": 2,
+          "phi{1,3}'": 1,
+          "phi{2,1}": 1,
+          "phi{2,2}": 2,
+          "phi{1,3}''": 1
+        },
+        "4": {
+          "phi{1,0}": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "G2": 1
+        },
+        "2": {
+          "G2": 1,
+          "G2(a1)": -1,
+          "~A1": 1,
+          "A1": 1
+        },
+        "4": {
+          "G2": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    },
+    "alpha[1] + alpha[2] | alpha[2] | 3*alpha[1] + alpha[2] | 2*alpha[1] + alpha[2] | 3*alpha[1] + 2*alpha[2]": {
+      "complementRoots": [
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]"
+      ],
+      "smooth": true,
+      "correspondingWord": "[1]",
+      "examples": [
+        "s_[1]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1,
+          "phi{1,3}'": 1,
+          "phi{2,1}": 1,
+          "phi{2,2}": 1
+        },
+        "2": {
+          "phi{1,0}": 1,
+          "phi{1,3}'": 1,
+          "phi{2,1}": 1,
+          "phi{2,2}": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "~A1": 1
+        },
+        "2": {
+          "~A1": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    },
+    "empty": {
+      "complementRoots": [],
+      "smooth": true,
+      "correspondingWord": "[2, 1, 2, 1, 2, 1]",
+      "examples": [
+        "s_[2, s_1, s_2, s_1, s_2, s_1]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1
+        },
+        "2": {
+          "phi{1,0}": 2
+        },
+        "4": {
+          "phi{1,0}": 2
+        },
+        "6": {
+          "phi{1,0}": 2
+        },
+        "8": {
+          "phi{1,0}": 2
+        },
+        "10": {
+          "phi{1,0}": 2
+        },
+        "12": {
+          "phi{1,0}": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "G2": 1
+        },
+        "2": {
+          "G2": 2
+        },
+        "4": {
+          "G2": 2
+        },
+        "6": {
+          "G2": 2
+        },
+        "8": {
+          "G2": 2
+        },
+        "10": {
+          "G2": 2
+        },
+        "12": {
+          "G2": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    },
+    "3*alpha[1] + alpha[2] | 2*alpha[1] + alpha[2] | 3*alpha[1] + 2*alpha[2]": {
+      "complementRoots": [
+        "3*alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]"
+      ],
+      "smooth": true,
+      "correspondingWord": "[2, 1, 2]",
+      "examples": [
+        "s_[2, s_1, s_2]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1
+        },
+        "2": {
+          "phi{1,0}": 2,
+          "phi{1,3}'": 1,
+          "phi{2,2}": 1
+        },
+        "4": {
+          "phi{1,0}": 2,
+          "phi{1,3}'": 1,
+          "phi{2,2}": 1
+        },
+        "6": {
+          "phi{1,0}": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "G2": 1
+        },
+        "2": {
+          "G2": 2,
+          "G2(a1)": -1,
+          "~A1": 1
+        },
+        "4": {
+          "G2": 2,
+          "G2(a1)": -1,
+          "~A1": 1
+        },
+        "6": {
+          "G2": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    },
+    "alpha[1] + alpha[2] | alpha[1] | 3*alpha[1] + alpha[2] | 2*alpha[1] + alpha[2] | 3*alpha[1] + 2*alpha[2]": {
+      "complementRoots": [
+        "alpha[1] + alpha[2]",
+        "alpha[1]",
+        "3*alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]"
+      ],
+      "smooth": true,
+      "correspondingWord": "[2]",
+      "examples": [
+        "s_[2]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1,
+          "phi{2,1}": 1,
+          "phi{2,2}": 1,
+          "phi{1,3}''": 1
+        },
+        "2": {
+          "phi{1,0}": 1,
+          "phi{2,1}": 1,
+          "phi{2,2}": 1,
+          "phi{1,3}''": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "A1": 1
+        },
+        "2": {
+          "A1": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    },
+    "alpha[1] + alpha[2] | alpha[1] | alpha[2] | 3*alpha[1] + alpha[2] | 2*alpha[1] + alpha[2] | 3*alpha[1] + 2*alpha[2]": {
+      "complementRoots": [
+        "alpha[1] + alpha[2]",
+        "alpha[1]",
+        "alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]"
+      ],
+      "smooth": true,
+      "correspondingWord": "[]",
+      "examples": [
+        "s_[]"
+      ],
+      "irrepColumns": [
+        "phi{1,0}",
+        "phi{1,3}'",
+        "phi{2,1}",
+        "phi{2,2}",
+        "phi{1,3}''",
+        "phi{1,6}"
+      ],
+      "irrepRows": {
+        "0": {
+          "phi{1,0}": 1,
+          "phi{1,3}'": 1,
+          "phi{2,1}": 2,
+          "phi{2,2}": 2,
+          "phi{1,3}''": 1,
+          "phi{1,6}": 1
+        }
+      },
+      "iccColumns": [
+        "G2",
+        "G2(a1)(21)",
+        "G2(a1)",
+        "~A1",
+        "A1",
+        "1"
+      ],
+      "iccRows": {
+        "0": {
+          "1": 1
+        }
+      },
+      "doubleHColumns": null,
+      "doubleHRows": null
+    }
+  }
+}

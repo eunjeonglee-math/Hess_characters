@@ -1,0 +1,108 @@
+{
+  "type": "B",
+  "rank": 2,
+  "entries": [
+    {
+      "sourceFile": "B2_.txt",
+      "reducedWord": [],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": []
+    },
+    {
+      "sourceFile": "B2_1.txt",
+      "reducedWord": [
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]"
+      ]
+    },
+    {
+      "sourceFile": "B2_2.txt",
+      "reducedWord": [
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "B2_12.txt",
+      "reducedWord": [
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "B2_21.txt",
+      "reducedWord": [
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "B2_121.txt",
+      "reducedWord": [
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "B2_212.txt",
+      "reducedWord": [
+        2,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + 2*alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "B2_2121.txt",
+      "reducedWord": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + 2*alpha[2]",
+        "alpha[2]"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "type": "G",
+  "rank": 2,
+  "entries": [
+    {
+      "sourceFile": "G2_.txt",
+      "reducedWord": [],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": []
+    },
+    {
+      "sourceFile": "G2_1.txt",
+      "reducedWord": [
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]"
+      ]
+    },
+    {
+      "sourceFile": "G2_2.txt",
+      "reducedWord": [
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_12.txt",
+      "reducedWord": [
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_21.txt",
+      "reducedWord": [
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_121.txt",
+      "reducedWord": [
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "3*alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_212.txt",
+      "reducedWord": [
+        2,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_1212.txt",
+      "reducedWord": [
+        1,
+        2,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_2121.txt",
+      "reducedWord": [
+        2,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_12121.txt",
+      "reducedWord": [
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_21212.txt",
+      "reducedWord": [
+        2,
+        1,
+        2,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "G2_212121.txt",
+      "reducedWord": [
+        2,
+        1,
+        2,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "2*alpha[1] + alpha[2]",
+        "3*alpha[1] + alpha[2]",
+        "3*alpha[1] + 2*alpha[2]",
+        "alpha[2]"
+      ]
+    }
+  ]
+}

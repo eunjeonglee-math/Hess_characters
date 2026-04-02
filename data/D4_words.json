@@ -1,0 +1,4162 @@
+{
+  "type": "D",
+  "rank": 4,
+  "entries": [
+    {
+      "sourceFile": "D4_.txt",
+      "reducedWord": [],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": []
+    },
+    {
+      "sourceFile": "D4_1.txt",
+      "reducedWord": [
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2.txt",
+      "reducedWord": [
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3.txt",
+      "reducedWord": [
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4.txt",
+      "reducedWord": [
+        4
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12.txt",
+      "reducedWord": [
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "D4_21.txt",
+      "reducedWord": [
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23.txt",
+      "reducedWord": [
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24.txt",
+      "reducedWord": [
+        2,
+        4
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31.txt",
+      "reducedWord": [
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32.txt",
+      "reducedWord": [
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_41.txt",
+      "reducedWord": [
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42.txt",
+      "reducedWord": [
+        4,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_43.txt",
+      "reducedWord": [
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_121.txt",
+      "reducedWord": [
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]"
+      ]
+    },
+    {
+      "sourceFile": "D4_123.txt",
+      "reducedWord": [
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124.txt",
+      "reducedWord": [
+        1,
+        2,
+        4
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231.txt",
+      "reducedWord": [
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_232.txt",
+      "reducedWord": [
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_241.txt",
+      "reducedWord": [
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_242.txt",
+      "reducedWord": [
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_243.txt",
+      "reducedWord": [
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312.txt",
+      "reducedWord": [
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_321.txt",
+      "reducedWord": [
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324.txt",
+      "reducedWord": [
+        3,
+        2,
+        4
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_412.txt",
+      "reducedWord": [
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_421.txt",
+      "reducedWord": [
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423.txt",
+      "reducedWord": [
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_431.txt",
+      "reducedWord": [
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_432.txt",
+      "reducedWord": [
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1231.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1232.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1241.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1242.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1243.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2321.txt",
+      "reducedWord": [
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2412.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2421.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2423.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2431.txt",
+      "reducedWord": [
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2432.txt",
+      "reducedWord": [
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3241.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3242.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3243.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4121.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4123.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4232.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4312.txt",
+      "reducedWord": [
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4321.txt",
+      "reducedWord": [
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12312.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12321.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12412.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12421.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12423.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12431.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12432.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24121.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24123.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24231.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24232.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24312.txt",
+      "reducedWord": [
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24321.txt",
+      "reducedWord": [
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31241.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31242.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31243.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32412.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32421.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32423.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32431.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32432.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_41231.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_41232.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42321.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_43121.txt",
+      "reducedWord": [
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_123121.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124121.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124123.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124231.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124232.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124312.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124321.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231241.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231242.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231243.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_241231.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_241232.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_242312.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_242321.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_243121.txt",
+      "reducedWord": [
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312412.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312421.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312423.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312431.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312432.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324121.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324123.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324231.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324232.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324312.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324321.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_412312.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_412321.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423121.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1241231.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1241232.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1242312.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1242321.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_1243121.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312412.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312421.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312423.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312431.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312432.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2412312.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2412321.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2423121.txt",
+      "reducedWord": [
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124123.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124231.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124232.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124312.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124321.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3241231.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3241232.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3242312.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3242321.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3243121.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4123121.txt",
+      "reducedWord": [
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231241.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231242.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231243.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12412312.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12412321.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_12423121.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124123.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124231.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124232.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124321.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_24123121.txt",
+      "reducedWord": [
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31241231.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31241232.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31242312.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31242321.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_31243121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32412312.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32412321.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_32423121.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312412.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312421.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312423.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312431.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312432.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_124123121.txt",
+      "reducedWord": [
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231241231.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231241232.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231242312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231242321.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_231243121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312412312.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312412321.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_312423121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_324123121.txt",
+      "reducedWord": [
+        3,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124121.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124123.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124231.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124232.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124312.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124321.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312412312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312412321.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_2312423121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_3124123121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231241231.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231241232.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231242312.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231242321.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_4231243121.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_23124123121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312412312.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312412321.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_42312423121.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    },
+    {
+      "sourceFile": "D4_423124123121.txt",
+      "reducedWord": [
+        4,
+        2,
+        3,
+        1,
+        2,
+        4,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": true,
+      "smooth": true,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + alpha[2] + alpha[3] + alpha[4]",
+        "alpha[1] + alpha[2] + alpha[4]",
+        "alpha[1] + 2*alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[2] + alpha[3] + alpha[4]",
+        "alpha[2] + alpha[4]",
+        "alpha[3]",
+        "alpha[4]"
+      ]
+    }
+  ]
+}
