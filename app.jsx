@@ -805,6 +805,10 @@ function App() {
 
   function pushWordLeft() {
     if (!current) return;
+    
+    setSelectedKey("");
+    setDisplayInfo(null);
+
     const parsedWord = parseWordList(wordInput);
     if (!parsedWord.length) {
       setWordResult({
