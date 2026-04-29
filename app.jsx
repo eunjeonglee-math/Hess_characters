@@ -921,12 +921,20 @@ function App() {
   }
 
   const activeDisplay = React.useMemo(() => {
-    if (panelMode === "word" && wordResult?.active && wordResult?.matched) {
-      return {
-        blackIds: wordResult.ideal ? wordResult.minimalNodeIds : [],
-        yellowIds: wordResult.complementNodeIds,
-        message: wordResult.message || "",
-      };
+    if (panelMode === "word" && wordResult?.active) {
+      if (wordResult.matched) {
+        return {
+          blackIds: wordResult.ideal ? wordResult.minimalNodeIds : [],
+          yellowIds: wordResult.complementNodeIds || [],
+          message: wordResult.message || "",
+        };
+      } else {
+        return {
+          blackIds: [],
+          yellowIds: [],
+          message: wordResult.message || "",
+        };
+      }
     }
     return {
       blackIds: selectedNodes,
@@ -1006,7 +1014,8 @@ function App() {
       <div className="card">
         <h1>Root Poset / Hessenberg Data Browser</h1>
         <p>
-          Use the right arrow to send a selected upper ideal to the tables,
+          The page reads upper-ideal data from <code>data/&lt;type&gt;&lt;rank&gt;.json</code> and optional word data from
+          <code> data/&lt;type&gt;&lt;rank&gt;_words.json</code>. Use the right arrow to send a selected upper ideal to the tables,
           and the left arrow to send a word lookup back to the poset panel.
         </p>
       </div>
@@ -1178,7 +1187,8 @@ function App() {
                 />
               </div>
               <div className="muted-note">
-                The left arrow compares the entered word to the reduced words. It matches equivalent words by comparing the corresponding Weyl-group element,
+                The left arrow compares the entered word to the reduced words listed in
+                <code> data/{type}{rank}_words.json</code>. It matches equivalent words by comparing the corresponding Weyl-group element,
                 so cancellations and braid-equivalent forms can still be found.
               </div>
             </div>
