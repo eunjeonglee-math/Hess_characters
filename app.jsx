@@ -1199,45 +1199,41 @@ function App() {
           </div>
           {wordStatusBox}
 
-          <div style={{ marginTop: "20px" }}>
-            <h2 style={{ marginBottom: "16px" }}>Selected upper ideal information</h2>
-            {selectedData ? (
-              <>
-                <div className="info-box top-info-box">
-                  <div className="info-grid">
-                    <div>
-                      <div className="info-title">Upper ideal roots</div>
-                      <div className="wrap-block">{formatRootList(selectedData.complementRoots)}</div>
-                    </div>
-                    <div>
-                      <div className="info-title">Smooth Schubert variety?</div>
-                      <div><strong>{selectedData.smooth ? "Yes" : "No"}</strong></div>
-                    </div>
-                    {selectedData.smooth || selectedData.correspondingWord !== undefined ? (
-                      <div>
-                        <div className="info-title">Corresponding word</div>
-                        <div className="wrap-block mono">{(() => {
-                          const rawWord = selectedData.correspondingWord ?? selectedData.correspondingReducedWord ?? selectedData.correspondingReudcedWord;
-                          if (rawWord == null || String(rawWord).trim() === "") return "(none)";
-                          return typeof rawWord === "string" ? rawWord : JSON.stringify(rawWord);
-                        })()}</div>
-                      </div>
-                    ) : null}
+          {selectedData ? (
+            <div style={{ marginTop: "20px" }}>
+              <h2 style={{ marginBottom: "16px" }}>Selected upper ideal information</h2>
+              <div className="info-box top-info-box">
+                <div className="info-grid">
+                  <div>
+                    <div className="info-title">Upper ideal roots</div>
+                    <div className="wrap-block">{formatRootList(selectedData.complementRoots)}</div>
                   </div>
+                  <div>
+                    <div className="info-title">Smooth Schubert variety?</div>
+                    <div><strong>{selectedData.smooth ? "Yes" : "No"}</strong></div>
+                  </div>
+                  {selectedData.smooth || selectedData.correspondingWord !== undefined ? (
+                    <div>
+                      <div className="info-title">Corresponding word</div>
+                      <div className="wrap-block mono">{(() => {
+                        const rawWord = selectedData.correspondingWord ?? selectedData.correspondingReducedWord ?? selectedData.correspondingReudcedWord;
+                        if (rawWord == null || String(rawWord).trim() === "") return "(none)";
+                        return typeof rawWord === "string" ? rawWord : JSON.stringify(rawWord);
+                      })()}</div>
+                    </div>
+                  ) : null}
                 </div>
+              </div>
 
-                {selectedData.smooth ? (
-                  <>
-                    <TableBlock title="Irreducible representation table" columns={selectedData.irrepColumns} rows={selectedData.irrepRows} />
-                    <TableBlock title="ICC / irreducible correspondence table" columns={selectedData.iccColumns} rows={selectedData.iccRows} />
-                    <TableBlock title="Double h-basis table" columns={selectedData.doubleHColumns} rows={selectedData.doubleHRows} />
-                  </>
-                ) : null}
-              </>
-            ) : (
-              <div className="info-box">No upper-ideal data is available for the current selection.</div>
-            )}
-          </div>
+              {selectedData.smooth ? (
+                <>
+                  <TableBlock title="Irreducible representation table" columns={selectedData.irrepColumns} rows={selectedData.irrepRows} />
+                  <TableBlock title="ICC / irreducible correspondence table" columns={selectedData.iccColumns} rows={selectedData.iccRows} />
+                  <TableBlock title="Double h-basis table" columns={selectedData.doubleHColumns} rows={selectedData.doubleHRows} />
+                </>
+              ) : null}
+            </div>
+          ) : null}
         </div>
       </div>
     </div>
