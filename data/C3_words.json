@@ -247,6 +247,24 @@
       ]
     },
     {
+      "sourceFile": "C3_2312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_2321.txt",
       "reducedWord": [
         2,
@@ -351,6 +369,26 @@
       ]
     },
     {
+      "sourceFile": "C3_12321.txt",
+      "reducedWord": [
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_23121.txt",
       "reducedWord": [
         2,
@@ -370,6 +408,46 @@
       ]
     },
     {
+      "sourceFile": "C3_23123.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_31231.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_31232.txt",
       "reducedWord": [
         3,
@@ -382,6 +460,26 @@
       "smooth": true,
       "eweComplementRoots": [
         "alpha[1]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_32312.txt",
+      "reducedWord": [
+        3,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
         "alpha[2]",
         "alpha[2] + alpha[3]",
         "2*alpha[2] + alpha[3]",
@@ -429,6 +527,28 @@
       ]
     },
     {
+      "sourceFile": "C3_231231.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_231232.txt",
       "reducedWord": [
         2,
@@ -450,6 +570,51 @@
       ]
     },
     {
+      "sourceFile": "C3_312312.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_312321.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_323121.txt",
       "reducedWord": [
         3,
@@ -464,6 +629,100 @@
       "eweComplementRoots": [
         "alpha[1]",
         "alpha[1] + alpha[2]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_323123.txt",
+      "reducedWord": [
+        3,
+        2,
+        3,
+        1,
+        2,
+        3
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_2312312.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        1,
+        2
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_2312321.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_3123121.txt",
+      "reducedWord": [
+        3,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
         "alpha[2]",
         "alpha[2] + alpha[3]",
         "2*alpha[2] + alpha[3]",
@@ -517,6 +776,32 @@
       ]
     },
     {
+      "sourceFile": "C3_23123121.txt",
+      "reducedWord": [
+        2,
+        3,
+        1,
+        2,
+        3,
+        1,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "alpha[1] + 2*alpha[2] + alpha[3]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
       "sourceFile": "C3_32312312.txt",
       "reducedWord": [
         3,
@@ -535,6 +820,31 @@
         "alpha[1] + alpha[2]",
         "alpha[1] + alpha[2] + alpha[3]",
         "alpha[1] + 2*alpha[2] + alpha[3]",
+        "alpha[2]",
+        "alpha[2] + alpha[3]",
+        "2*alpha[2] + alpha[3]",
+        "alpha[3]"
+      ]
+    },
+    {
+      "sourceFile": "C3_32312321.txt",
+      "reducedWord": [
+        3,
+        2,
+        3,
+        1,
+        2,
+        3,
+        2,
+        1
+      ],
+      "rationallySmooth": false,
+      "smooth": false,
+      "eweComplementRoots": [
+        "alpha[1]",
+        "alpha[1] + alpha[2]",
+        "alpha[1] + alpha[2] + alpha[3]",
+        "2*alpha[1] + 2*alpha[2] + alpha[3]",
         "alpha[2]",
         "alpha[2] + alpha[3]",
         "2*alpha[2] + alpha[3]",

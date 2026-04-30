@@ -3,7 +3,7 @@
   "rank": 5,
   "entries": [
     {
-      "sourceFile": "C5_e.txt",
+      "sourceFile": "C5_.txt",
       "reducedWord": [],
       "rationallySmooth": true,
       "smooth": true,
@@ -15415,7 +15415,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[3]",
@@ -22289,7 +22289,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[2]",
@@ -22811,7 +22811,7 @@
         3,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -22838,7 +22838,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[2]",
@@ -30042,7 +30042,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[2]",
@@ -30751,7 +30751,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -31333,7 +31333,7 @@
         3,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -32020,7 +32020,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[2]",
@@ -32049,7 +32049,7 @@
         1,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -32078,7 +32078,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -39838,7 +39838,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -40462,7 +40462,7 @@
         3,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -41257,7 +41257,7 @@
         3,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -42858,7 +42858,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -42921,7 +42921,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -42952,7 +42952,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -50418,7 +50418,7 @@
         4,
         3
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -55120,7 +55120,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -62895,7 +62895,7 @@
         3,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -68099,7 +68099,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -93506,7 +93506,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[2]",
@@ -104042,7 +104042,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -105226,7 +105226,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -113101,7 +113101,7 @@
         3,
         2
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -115452,7 +115452,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
@@ -140088,7 +140088,7 @@
         2,
         1
       ],
-      "rationallySmooth": true,
+      "rationallySmooth": false,
       "smooth": false,
       "eweComplementRoots": [
         "alpha[1]",
