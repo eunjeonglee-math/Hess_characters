@@ -7,7 +7,7 @@
       "minimalElements": [],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 1 2 1"
+      "correspondingReducedWord": "[2, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -18,7 +18,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 1 2"
+      "correspondingReducedWord": "[2, 1, 2]"
     },
     {
       "upperIdealRoots": [
@@ -31,7 +31,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2"
+      "correspondingReducedWord": "[2]"
     },
     {
       "upperIdealRoots": [
@@ -43,7 +43,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 1"
+      "correspondingReducedWord": "[1, 2], [2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -56,7 +56,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1"
+      "correspondingReducedWord": "[1]"
     },
     {
       "upperIdealRoots": [
@@ -71,7 +71,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": ""
+      "correspondingReducedWord": "[]"
     }
   ]
 }

@@ -7,7 +7,7 @@
       "minimalElements": [],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 5 1 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -18,7 +18,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 5 1 2 3 4 1 2 3 1 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1, 2]"
     },
     {
       "upperIdealRoots": [
@@ -86,7 +86,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 2 3 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -98,7 +98,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 5 1 2 3 4 1 2 3 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -116,7 +116,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 5 2 3 4 2 3 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -129,7 +129,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 5 1 2 3 4 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 1], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -146,7 +146,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -160,7 +160,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 1, 2, 3, 1, 2, 1], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -176,7 +176,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -191,7 +191,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -216,7 +216,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 3 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -254,7 +254,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 3 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 3, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -292,7 +292,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -311,7 +311,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -339,7 +339,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 4 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -383,7 +383,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 1 2 3 4 5 4 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -405,7 +405,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 1 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[2, 3, 4, 5, 1, 2, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -433,7 +433,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -457,7 +457,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -482,7 +482,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -503,7 +503,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 2 3"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 3]"
     },
     {
       "upperIdealRoots": [
@@ -523,7 +523,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 5 2 3 4 2 3"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -758,7 +758,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3, 4, 1]"
     },
     {
       "upperIdealRoots": [
@@ -783,7 +783,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3, 4, 1], [5, 4, 5, 3, 4, 5, 3, 4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1100,7 +1100,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1127,7 +1127,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 1 2 3 4 5 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 1, 2, 1], [5, 4, 5, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1178,7 +1178,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 3"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -1200,7 +1200,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 3"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -1226,7 +1226,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 3 4 5 3 4 3"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 3, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1249,7 +1249,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -1274,7 +1274,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 2 3 2"
+      "correspondingReducedWord": "[5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1298,7 +1298,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 2 3 2"
+      "correspondingReducedWord": "[4, 5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1329,7 +1329,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 4 2"
+      "correspondingReducedWord": "[5, 4, 5, 4, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1383,7 +1383,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 4 2"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 4, 2], [5, 4, 5, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1410,7 +1410,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 3 4 2 3 2"
+      "correspondingReducedWord": "[3, 4, 5, 2, 3, 4, 5, 4, 2], [5, 4, 5, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1442,7 +1442,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 2"
+      "correspondingReducedWord": "[5, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1471,7 +1471,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 3 2"
+      "correspondingReducedWord": "[2, 3, 4, 5, 2, 3, 2], [5, 2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1501,7 +1501,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 3 2"
+      "correspondingReducedWord": "[2, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -1522,7 +1522,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 5 2 3 4 3"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 2], [5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 2, 1], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1547,7 +1547,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 3 1 2"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 3, 4, 3, 1, 2], [5, 4, 5, 3, 4, 5, 3, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1569,7 +1569,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 5 2 3 2"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 2], [5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 2, 1], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1593,7 +1593,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 1 2 3 2"
+      "correspondingReducedWord": "[5, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 3, 4, 1, 2, 3, 2], [5, 4, 5, 3, 4, 5, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1616,7 +1616,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 4 2 3 2"
+      "correspondingReducedWord": "[4, 5, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [4, 5, 3, 4, 5, 2, 3, 4, 5, 3, 4, 3, 1], [5, 4, 5, 3, 4, 5, 1, 2, 3, 4, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1646,7 +1646,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 4 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 4, 1, 2], [5, 4, 5, 4, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1698,7 +1698,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 4 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 4, 2], [5, 2, 3, 4, 5, 4, 2, 1], [5, 4, 5, 4, 1, 2, 3, 2], [5, 4, 5, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1724,7 +1724,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 3 4 2 3 2 1"
+      "correspondingReducedWord": "[3, 4, 5, 1, 2, 3, 4, 5, 4, 2], [3, 4, 5, 2, 3, 4, 5, 4, 2, 1], [5, 4, 5, 1, 2, 3, 4, 2, 3, 2], [5, 4, 5, 2, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1755,7 +1755,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 2], [5, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1783,7 +1783,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 3 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 2, 3, 2], [2, 3, 4, 5, 2, 3, 2, 1], [5, 1, 2, 3, 4, 2, 3, 2], [5, 2, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1812,7 +1812,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 3 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 2, 3, 2], [2, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1832,7 +1832,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 4 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 2, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1853,7 +1853,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1876,7 +1876,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1898,7 +1898,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1948,7 +1948,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 4 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 4, 1, 2], [5, 2, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 4, 1, 2, 3, 1, 2], [5, 4, 5, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -1973,7 +1973,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[2, 3, 4, 5, 1, 2, 3, 4, 5, 4, 2], [3, 4, 5, 2, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 1, 2, 3, 4, 1, 2, 3, 2], [5, 4, 5, 2, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2003,7 +2003,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 1, 2], [5, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2030,7 +2030,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 3, 2], [2, 3, 4, 5, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 3, 2], [5, 2, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2058,7 +2058,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 3, 2], [2, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2114,7 +2114,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2135,7 +2135,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[3, 4, 5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 3, 4, 3], [5, 4, 5, 3, 4, 5, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2181,7 +2181,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[2, 3, 4, 5, 1, 2, 3, 4, 5, 4, 1, 2], [5, 4, 5, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2207,7 +2207,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 3, 1, 2], [2, 3, 4, 5, 1, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 3, 1, 2], [5, 2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2234,7 +2234,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 3, 1, 2], [2, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2323,7 +2323,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 4 1"
+      "correspondingReducedWord": "[5, 4, 5, 4, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2351,7 +2351,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 4 1"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3, 1], [5, 4, 5, 3, 4, 5, 4, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2381,7 +2381,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 4 1"
+      "correspondingReducedWord": "[5, 3, 4, 5, 4, 1], [5, 4, 5, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2410,7 +2410,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 3 4 5 4 1"
+      "correspondingReducedWord": "[4, 5, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2443,7 +2443,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 1"
+      "correspondingReducedWord": "[5, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2474,7 +2474,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 3 1"
+      "correspondingReducedWord": "[3, 4, 5, 3, 1], [5, 3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2506,7 +2506,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 3 1"
+      "correspondingReducedWord": "[3, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2532,7 +2532,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 4 1 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3, 1], [5, 4, 5, 1, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 5, 3, 1, 2, 1], [5, 4, 5, 3, 4, 5, 4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2560,7 +2560,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 4 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 4, 1], [5, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 4, 1, 2, 3, 1], [5, 4, 5, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2587,7 +2587,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 3 4 5 4 1 2 1"
+      "correspondingReducedWord": "[4, 5, 1, 2, 3, 4, 5, 4, 1], [4, 5, 3, 4, 5, 4, 1, 2, 1], [5, 4, 5, 1, 2, 3, 4, 3, 1], [5, 4, 5, 3, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2618,7 +2618,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 1], [5, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2647,7 +2647,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 3, 1], [3, 4, 5, 3, 1, 2, 1], [5, 1, 2, 3, 4, 3, 1], [5, 3, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2677,7 +2677,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 3, 1], [3, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2701,7 +2701,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 1 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 5, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2726,7 +2726,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 1 2 3 1 2 1"
+      "correspondingReducedWord": "[2, 3, 4, 5, 1, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2753,7 +2753,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 5 1 2 3 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 3, 1], [3, 4, 5, 1, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 3, 1], [5, 3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2781,7 +2781,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 1 2 3 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 3, 1], [3, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2835,7 +2835,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2866,7 +2866,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 1 2 1"
+      "correspondingReducedWord": "[4, 5, 1, 2, 1], [5, 4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2898,7 +2898,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 1 2 1"
+      "correspondingReducedWord": "[4, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2926,7 +2926,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 5 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 1], [4, 5, 1, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 1], [5, 4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2955,7 +2955,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 4 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 1], [4, 1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -2985,7 +2985,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3014,7 +3014,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3, 4]"
     },
     {
       "upperIdealRoots": [
@@ -3042,7 +3042,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 2"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 3, 4], [5, 4, 5, 3, 4, 5, 3, 4, 2]"
     },
     {
       "upperIdealRoots": [
@@ -3147,7 +3147,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 3 4 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3, 4], [5, 4, 5, 2, 3, 4, 5, 3, 4, 1], [5, 4, 5, 3, 4, 5, 3, 4, 1, 2], [5, 4, 5, 3, 4, 5, 3, 4, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3511,7 +3511,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2"
+      "correspondingReducedWord": "[5, 4, 5, 2]"
     },
     {
       "upperIdealRoots": [
@@ -3542,7 +3542,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 2"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 2], [5, 4, 5, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -3687,7 +3687,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2], [5, 4, 5, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3717,7 +3717,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 2], [5, 2, 3, 4, 5, 2, 1], [5, 4, 5, 1, 2, 3, 2], [5, 4, 5, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3827,7 +3827,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 3 4 5 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 1, 2], [5, 2, 3, 4, 5, 1, 2, 1], [5, 4, 5, 1, 2, 3, 1, 2], [5, 4, 5, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3938,7 +3938,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 1"
+      "correspondingReducedWord": "[5, 4, 5, 1]"
     },
     {
       "upperIdealRoots": [
@@ -3970,7 +3970,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 1"
+      "correspondingReducedWord": "[5, 3, 4, 5, 1], [5, 4, 5, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -4031,7 +4031,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 1 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 1], [5, 3, 4, 5, 1, 2, 1], [5, 4, 5, 1, 2, 3, 1], [5, 4, 5, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -4120,7 +4120,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 4"
+      "correspondingReducedWord": "[5, 4, 5, 4]"
     },
     {
       "upperIdealRoots": [
@@ -4150,7 +4150,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 4"
+      "correspondingReducedWord": "[5, 4, 5, 3, 4, 5, 3], [5, 4, 5, 3, 4, 5, 4]"
     },
     {
       "upperIdealRoots": [
@@ -4182,7 +4182,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 4"
+      "correspondingReducedWord": "[5, 3, 4, 5, 4], [5, 4, 5, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -4213,7 +4213,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 3 4 5 4"
+      "correspondingReducedWord": "[4, 5, 3, 4, 5, 4], [5, 4, 5, 3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -4248,7 +4248,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3"
+      "correspondingReducedWord": "[5, 3]"
     },
     {
       "upperIdealRoots": [
@@ -4281,7 +4281,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 3"
+      "correspondingReducedWord": "[3, 4, 5, 3], [5, 3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -4315,7 +4315,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 3"
+      "correspondingReducedWord": "[3, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -4344,7 +4344,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 4 2"
+      "correspondingReducedWord": "[5, 4, 5, 2, 3, 4, 5, 3], [5, 4, 5, 2, 3, 4, 5, 4], [5, 4, 5, 3, 4, 5, 3, 2], [5, 4, 5, 3, 4, 5, 4, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4375,7 +4375,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 4 2"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 4], [5, 3, 4, 5, 4, 2], [5, 4, 5, 4, 2, 3], [5, 4, 5, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4405,7 +4405,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 3 4 5 4 2"
+      "correspondingReducedWord": "[4, 5, 2, 3, 4, 5, 4], [4, 5, 3, 4, 5, 4, 2], [5, 4, 5, 2, 3, 4, 3], [5, 4, 5, 3, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4439,7 +4439,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 2"
+      "correspondingReducedWord": "[5, 2, 3], [5, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4471,7 +4471,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 3 2"
+      "correspondingReducedWord": "[2, 3, 4, 5, 3], [3, 4, 5, 3, 2], [5, 2, 3, 4, 3], [5, 3, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4504,7 +4504,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 3 2"
+      "correspondingReducedWord": "[2, 3, 4, 3], [3, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4532,7 +4532,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 2"
+      "correspondingReducedWord": "[5, 3, 4, 5, 2, 3, 4, 5, 4], [5, 4, 5, 3, 4, 5, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4561,7 +4561,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 2 3 2"
+      "correspondingReducedWord": "[3, 4, 5, 2, 3, 4, 5, 4], [5, 4, 5, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4592,7 +4592,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 3"
+      "correspondingReducedWord": "[2, 3, 4, 5, 2, 3], [3, 4, 5, 2, 3, 2], [5, 2, 3, 4, 2, 3], [5, 3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4624,7 +4624,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 3"
+      "correspondingReducedWord": "[2, 3, 4, 2, 3], [3, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4686,7 +4686,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2"
+      "correspondingReducedWord": "[5, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4720,7 +4720,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 2"
+      "correspondingReducedWord": "[4, 5, 2], [5, 4, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4755,7 +4755,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 2"
+      "correspondingReducedWord": "[4, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4787,7 +4787,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2"
+      "correspondingReducedWord": "[2, 3, 4, 5, 2], [4, 5, 2, 3, 2], [5, 2, 3, 4, 2], [5, 4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4820,7 +4820,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2"
+      "correspondingReducedWord": "[2, 3, 4, 2], [4, 2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4854,7 +4854,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 2"
+      "correspondingReducedWord": "[2, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -4882,7 +4882,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 4 2 1"
+      "correspondingReducedWord": "[5, 4, 5, 1, 2, 3, 4, 5, 3], [5, 4, 5, 1, 2, 3, 4, 5, 4], [5, 4, 5, 2, 3, 4, 5, 3, 1], [5, 4, 5, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 5, 3, 1, 2], [5, 4, 5, 3, 4, 5, 3, 2, 1], [5, 4, 5, 3, 4, 5, 4, 1, 2], [5, 4, 5, 3, 4, 5, 4, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -4912,7 +4912,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 4 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5, 4], [5, 2, 3, 4, 5, 4, 1], [5, 3, 4, 5, 4, 1, 2], [5, 3, 4, 5, 4, 2, 1], [5, 4, 5, 4, 1, 2, 3], [5, 4, 5, 4, 2, 3, 1], [5, 4, 5, 4, 3, 1, 2], [5, 4, 5, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -4941,7 +4941,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 3 4 5 4 2 1"
+      "correspondingReducedWord": "[4, 5, 1, 2, 3, 4, 5, 4], [4, 5, 2, 3, 4, 5, 4, 1], [4, 5, 3, 4, 5, 4, 1, 2], [4, 5, 3, 4, 5, 4, 2, 1], [5, 4, 5, 1, 2, 3, 4, 3], [5, 4, 5, 2, 3, 4, 3, 1], [5, 4, 5, 3, 4, 3, 1, 2], [5, 4, 5, 3, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -4974,7 +4974,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3], [5, 2, 3, 1], [5, 3, 1, 2], [5, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5005,7 +5005,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 3 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 3], [2, 3, 4, 5, 3, 1], [3, 4, 5, 3, 1, 2], [3, 4, 5, 3, 2, 1], [5, 1, 2, 3, 4, 3], [5, 2, 3, 4, 3, 1], [5, 3, 4, 3, 1, 2], [5, 3, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5037,7 +5037,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 3 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 3], [2, 3, 4, 3, 1], [3, 4, 3, 1, 2], [3, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5064,7 +5064,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 1 2 3 4 5 4"
+      "correspondingReducedWord": "[5, 3, 4, 5, 1, 2, 3, 4, 5, 4], [5, 3, 4, 5, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 5, 1, 2, 3, 2], [5, 4, 5, 3, 4, 5, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5092,7 +5092,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 2 3 2 1"
+      "correspondingReducedWord": "[3, 4, 5, 1, 2, 3, 4, 5, 4], [3, 4, 5, 2, 3, 4, 5, 4, 1], [5, 4, 5, 3, 4, 1, 2, 3, 2], [5, 4, 5, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5122,7 +5122,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 3 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 2, 3], [2, 3, 4, 5, 2, 3, 1], [3, 4, 5, 1, 2, 3, 2], [3, 4, 5, 2, 3, 2, 1], [5, 1, 2, 3, 4, 2, 3], [5, 2, 3, 4, 2, 3, 1], [5, 3, 4, 1, 2, 3, 2], [5, 3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5153,7 +5153,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 3 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 2, 3], [2, 3, 4, 2, 3, 1], [3, 4, 1, 2, 3, 2], [3, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5213,7 +5213,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 2 1"
+      "correspondingReducedWord": "[5, 1, 2], [5, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5246,7 +5246,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 2 1"
+      "correspondingReducedWord": "[4, 5, 1, 2], [4, 5, 2, 1], [5, 4, 1, 2], [5, 4, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5280,7 +5280,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 2 1"
+      "correspondingReducedWord": "[4, 1, 2], [4, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5311,7 +5311,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 2], [2, 3, 4, 5, 2, 1], [4, 5, 1, 2, 3, 2], [4, 5, 2, 3, 2, 1], [5, 1, 2, 3, 4, 2], [5, 2, 3, 4, 2, 1], [5, 4, 1, 2, 3, 2], [5, 4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5343,7 +5343,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 2], [2, 3, 4, 2, 1], [4, 1, 2, 3, 2], [4, 2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5376,7 +5376,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 2], [2, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5402,7 +5402,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 5 2 3 1 2 1"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5, 1, 2, 3, 4, 5, 4], [5, 4, 5, 3, 4, 5, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5429,7 +5429,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5 3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[2, 3, 4, 5, 1, 2, 3, 4, 5, 4], [5, 4, 5, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5458,7 +5458,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2, 3], [3, 4, 5, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2, 3], [5, 3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5488,7 +5488,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2, 3], [3, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5543,7 +5543,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 5 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1, 2], [2, 3, 4, 5, 1, 2, 1], [4, 5, 1, 2, 3, 1, 2], [4, 5, 2, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1, 2], [5, 2, 3, 4, 1, 2, 1], [5, 4, 1, 2, 3, 1, 2], [5, 4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5574,7 +5574,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 4 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1, 2], [2, 3, 4, 1, 2, 1], [4, 1, 2, 3, 1, 2], [4, 2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5606,7 +5606,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 1, 2], [2, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5665,7 +5665,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 1"
+      "correspondingReducedWord": "[5, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5699,7 +5699,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5 1"
+      "correspondingReducedWord": "[4, 5, 1], [5, 4, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5734,7 +5734,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 1"
+      "correspondingReducedWord": "[4, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5767,7 +5767,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 1"
+      "correspondingReducedWord": "[3, 4, 5, 1], [4, 5, 3, 1], [5, 3, 4, 1], [5, 4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5801,7 +5801,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 1"
+      "correspondingReducedWord": "[3, 4, 1], [4, 3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5836,7 +5836,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 1"
+      "correspondingReducedWord": "[3, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5867,7 +5867,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5, 1], [3, 4, 5, 1, 2, 1], [4, 5, 1, 2, 3, 1], [4, 5, 3, 1, 2, 1], [5, 1, 2, 3, 4, 1], [5, 3, 4, 1, 2, 1], [5, 4, 1, 2, 3, 1], [5, 4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5899,7 +5899,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 1], [3, 4, 1, 2, 1], [4, 1, 2, 3, 1], [4, 3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5932,7 +5932,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 1 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 1], [3, 1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -5966,7 +5966,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1 2 1"
+      "correspondingReducedWord": "[1, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6001,7 +6001,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 4 5"
+      "correspondingReducedWord": "[5, 4, 5]"
     },
     {
       "upperIdealRoots": [
@@ -6035,7 +6035,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5"
+      "correspondingReducedWord": "[5, 3, 4, 5], [5, 4, 5, 3]"
     },
     {
       "upperIdealRoots": [
@@ -6101,7 +6101,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 2"
+      "correspondingReducedWord": "[5, 2, 3, 4, 5], [5, 3, 4, 5, 2], [5, 4, 5, 2, 3], [5, 4, 5, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -6196,7 +6196,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5 3 4 5 2 1"
+      "correspondingReducedWord": "[5, 1, 2, 3, 4, 5], [5, 2, 3, 4, 5, 1], [5, 3, 4, 5, 1, 2], [5, 3, 4, 5, 2, 1], [5, 4, 5, 1, 2, 3], [5, 4, 5, 2, 3, 1], [5, 4, 5, 3, 1, 2], [5, 4, 5, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6323,7 +6323,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "5"
+      "correspondingReducedWord": "[5]"
     },
     {
       "upperIdealRoots": [
@@ -6359,7 +6359,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4 5"
+      "correspondingReducedWord": "[4, 5], [5, 4]"
     },
     {
       "upperIdealRoots": [
@@ -6396,7 +6396,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "4"
+      "correspondingReducedWord": "[4]"
     },
     {
       "upperIdealRoots": [
@@ -6431,7 +6431,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5"
+      "correspondingReducedWord": "[3, 4, 5], [4, 5, 3], [5, 3, 4], [5, 4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -6467,7 +6467,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4"
+      "correspondingReducedWord": "[3, 4], [4, 3]"
     },
     {
       "upperIdealRoots": [
@@ -6504,7 +6504,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3"
+      "correspondingReducedWord": "[3]"
     },
     {
       "upperIdealRoots": [
@@ -6538,7 +6538,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 2"
+      "correspondingReducedWord": "[2, 3, 4, 5], [3, 4, 5, 2], [4, 5, 2, 3], [4, 5, 3, 2], [5, 2, 3, 4], [5, 3, 4, 2], [5, 4, 2, 3], [5, 4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -6573,7 +6573,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 2"
+      "correspondingReducedWord": "[2, 3, 4], [3, 4, 2], [4, 2, 3], [4, 3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -6609,7 +6609,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 2"
+      "correspondingReducedWord": "[2, 3], [3, 2]"
     },
     {
       "upperIdealRoots": [
@@ -6646,7 +6646,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2"
+      "correspondingReducedWord": "[2]"
     },
     {
       "upperIdealRoots": [
@@ -6679,7 +6679,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 5 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4, 5], [2, 3, 4, 5, 1], [3, 4, 5, 1, 2], [3, 4, 5, 2, 1], [4, 5, 1, 2, 3], [4, 5, 2, 3, 1], [4, 5, 3, 1, 2], [4, 5, 3, 2, 1], [5, 1, 2, 3, 4], [5, 2, 3, 4, 1], [5, 3, 4, 1, 2], [5, 3, 4, 2, 1], [5, 4, 1, 2, 3], [5, 4, 2, 3, 1], [5, 4, 3, 1, 2], [5, 4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6713,7 +6713,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 4 2 1"
+      "correspondingReducedWord": "[1, 2, 3, 4], [2, 3, 4, 1], [3, 4, 1, 2], [3, 4, 2, 1], [4, 1, 2, 3], [4, 2, 3, 1], [4, 3, 1, 2], [4, 3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6748,7 +6748,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "3 2 1"
+      "correspondingReducedWord": "[1, 2, 3], [2, 3, 1], [3, 1, 2], [3, 2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6784,7 +6784,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "2 1"
+      "correspondingReducedWord": "[1, 2], [2, 1]"
     },
     {
       "upperIdealRoots": [
@@ -6821,7 +6821,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": "1"
+      "correspondingReducedWord": "[1]"
     },
     {
       "upperIdealRoots": [
@@ -6860,7 +6860,7 @@
       ],
       "realizable": true,
       "smooth": true,
-      "correspondingReducedWord": ""
+      "correspondingReducedWord": "[]"
     }
   ]
 }
