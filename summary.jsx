@@ -2,7 +2,7 @@
 const rankOptions = {
   B: [2, 3, 4, 5],
   C: [2, 3, 4, 5],
-  D: [4, 5],
+  D: [4, 5, 6],
   E: [6, 7, 8],
   F: [4],
   G: [2],
@@ -159,9 +159,15 @@ function sortEntries(entries, sortBy, direction) {
   arr.sort((a, b) => {
     let cmp = 0;
     if (sortBy === "hess") {
-      const aText = a.minimalGenerators.length ? a.minimalGenerators.join(" | ") : "∅";
-      const bText = b.minimalGenerators.length ? b.minimalGenerators.join(" | ") : "∅";
-      cmp = compareText(aText, bText);
+      const aLen = a.minimalGenerators.length;
+      const bLen = b.minimalGenerators.length;
+      if (aLen !== bLen) {
+        cmp = aLen - bLen;
+      } else {
+        const aText = aLen ? a.minimalGenerators.join(" | ") : "∅";
+        const bText = bLen ? b.minimalGenerators.join(" | ") : "∅";
+        cmp = compareText(aText, bText);
+      }
     } else if (sortBy === "realizable") {
       cmp = Number(a.realizable) - Number(b.realizable);
     } else if (sortBy === "word") {
@@ -189,10 +195,39 @@ function App() {
       setLoading(true);
       setLoadError("");
       try {
-        const res = await fetch(`./data/${type}${rank}.json`);
-        if (!res.ok) throw new Error(`Could not load data/${type}${rank}.json`);
-        const json = await res.json();
-        setEntries(buildAllEntries(json));
+        const summaryRes = await fetch(`./data/${type}${rank}_summary.json`);
+        if (summaryRes.ok) {
+          const summaryJson = await summaryRes.json();
+          const precomputedEntries = (summaryJson.rows || []).map((row, idx) => {
+            const upperIdealRoots = row.upperIdealRoots || [];
+            const minimalGenerators = row.minimalElements || [];
+            const derivedKey =
+              row.key ??
+              row.idealKey ??
+              (upperIdealRoots.length ? normalizeRootSet(upperIdealRoots) : "__EMPTY__");
+
+            return {
+              id: String(derivedKey || `summary-${idx}`),
+              key: String(derivedKey || `summary-${idx}`),
+              upperIdealRoots,
+              minimalGenerators,
+              realizable: !!row.realizable,
+              smooth: !!row.smooth,
+              correspondingWord:
+                row.correspondingReducedWord ??
+                row.correspondingReudcedWord ??
+                row.correspondingWord ??
+                ""
+            };
+          });
+          setEntries(precomputedEntries);
+        } else {
+          const cb = Date.now();
+          const res = await fetch(`./data/${type}${rank}.json?v=${cb}`);
+          if (!res.ok) throw new Error(`Could not load data/${type}${rank}.json`);
+          const json = await res.json();
+          setEntries(buildAllEntries(json));
+        }
       } catch (err) {
         setEntries([]);
         setLoadError(err.message || "Failed to load JSON.");

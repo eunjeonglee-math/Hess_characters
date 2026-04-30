@@ -543,14 +543,15 @@ function App() {
       setWordResult(null);
       setPanelMode("manual");
       try {
-        const mainResponse = await fetch(`./data/${type}${rank}.json`);
+        const cb = Date.now();
+        const mainResponse = await fetch(`./data/${type}${rank}.json?v=${cb}`);
         if (!mainResponse.ok) throw new Error(`Could not load data/${type}${rank}.json`);
         const data = await mainResponse.json();
         setCurrent(data);
 
         let nextWordFile = { entries: [] };
         try {
-          const wordResponse = await fetch(`./data/${type}${rank}_words.json`);
+          const wordResponse = await fetch(`./data/${type}${rank}_words.json?v=${cb}`);
           if (wordResponse.ok) nextWordFile = await wordResponse.json();
         } catch (_) {
           nextWordFile = { entries: [] };
@@ -889,15 +890,7 @@ function App() {
         setDisplayInfo({ matched: true, data: lookup[1] });
       } else {
         setSelectedKey("");
-        setDisplayInfo({
-          matched: false,
-          data: {
-            complementRoots,
-            smooth: false,
-            correspondingWord: "",
-            examples: [],
-          },
-        });
+        setDisplayInfo(null);
       }
     }
 
